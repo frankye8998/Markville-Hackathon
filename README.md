@@ -4,7 +4,7 @@ This is the project that was created by [Frank Ye](https://github.com/frankye899
 
 ## Installation
 
-**Please note that this will not work without a webcam pointed at the star at night.**
+**Please note that this will not work without a webcam pointed at the sky at night.**
 
 To install using git, do the following:
 
