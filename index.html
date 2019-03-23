@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+    <html>
+
+    <head>
+        <style>
+            body {
+                background: black;
+            }
+        </style>
+        <script>
+            function updateImage() {
+
+                document.getElementById("img").src = "test.svg#" + new Date().getTime();
+                setTimeout(updateImage, 3000);
+            }
+        </script>
+        <!--<meta http-equiv="refresh" content="1">-->
+    </head>
+
+    <body onload="updateImage()">
+        <img src="test.svg" id="img" style="height: 100%; width: 100%">
+    </body>
+
+    </html>
