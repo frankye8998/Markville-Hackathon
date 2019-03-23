@@ -19,3 +19,8 @@ You can also download this repository as a zip [here](https://github.com/frankye
 ## Running
 
 Run `code.py` with `index.html` open in your browser.
+
+## Do not...
+
+* Point this at the moon
+* Use this in areas with high light pollution
