@@ -18,7 +18,7 @@ You can also download this repository as a zip [here](https://github.com/frankye
 
 ## Running
 
-Run `code.py` with `index.html` open in your browser.
+Run `main.py` with `index.html` open in your browser.
 
 ## Do not...
 
