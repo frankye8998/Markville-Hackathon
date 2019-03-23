@@ -9,7 +9,9 @@ This is the project that was created by [Frank Ye](https://github.com/frankye899
 To install using git, do the following:
 
 `$ git clone https://github.com/frankye8998/Markville-Hackathon`
+
 `$ cd Markville-Hackathon`
+
 `$ pip install -r requirements.txt`
 
 You can also download this repository as a zip [here](https://github.com/frankye8998/Markville-Hackathon/archive/master.zip). Remember to download the dependencies. 
